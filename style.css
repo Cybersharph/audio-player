@@ -1,0 +1,14 @@
+
+#main {
+    padding: 30px;
+}
+
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+}
+
+.animated {
+    background-color: black !important;
+    padding: 10px !important;
+    
+}
